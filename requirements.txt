@@ -16,3 +16,4 @@ tqdm
 typer
 llama_index
 prettytable
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
