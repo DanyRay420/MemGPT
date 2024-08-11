@@ -16,3 +16,4 @@ tqdm
 typer
 llama_index
 prettytable
+nltk>=3.8.2 # not directly required, pinned by Snyk to avoid a vulnerability
